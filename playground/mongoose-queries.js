@@ -6,7 +6,7 @@ const {User}=require('./../server/models/user');
 
 // var id = '5a7363c096c8a131580432ee';
 //
-// if(!ObjectID.idValid(id)){
+// if(!ObjectID.isValid(id)){
 //   console.log('ID not valid');
 // }
 
